@@ -36,7 +36,7 @@ Document Liveness Detection is a system that verifies whether the submitted docu
 ## Requirements
 
 - iOS 13.0+
-- Xcode 16.2+
+- Xcode 26.1.1
 - Swift 5.5+
 - Camera permissions
 
