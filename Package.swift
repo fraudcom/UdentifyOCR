@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "UdentifyOCR",
-            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/514147735.zip",
-            checksum: "c389027557e44bc34b843ab8893469f2ab43345323344dff5c6c5527c526331d"
+            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/518017794.zip",
+            checksum: "b82c0a76aa537f86b3fe94eeac1e6f1e24b1cf73a5287423fb4f4690ccb1cdfc"
         )
     ]
 )
