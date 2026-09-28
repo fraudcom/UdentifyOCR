@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UdentifyCommons",
+        "repositoryURL": "https://github.com/fraudcom/UdentifyCommons.git",
+        "state": {
+          "branch": null,
+          "revision": "782ab4b19d60a73b64e38a857975059e8b2de5a0",
+          "version": "26.3.928"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
